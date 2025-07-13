@@ -1,4 +1,4 @@
-rdkit==2023.9.1
+rdkit==2023.3.2
 atomicwrites==1.4.1
 attrs==23.2.0
 certifi==2024.7.4
