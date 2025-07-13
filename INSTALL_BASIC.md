@@ -8,8 +8,8 @@ Please refer to `https://www.anaconda.com/`.
 
 ```
 $ cd /tmp
-$ curl -O https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
-$ bash Anaconda3-2019.10-Linux-x86_64.sh
+$ curl -O https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
+$ bash Anaconda3-2021.05-Linux-x86_64.sh
 ```
 
 add `export PATH=~/anaconda3/bin:$PATH` to `~/.bashrc`, 见 https://www.oryoy.com/news/ubuntu-xi-tong-qing-song-shang-shou-jiao-ni-ru-he-tian-jia-anaconda-lu-jing-dao-huan-jing-bian-liang.html
